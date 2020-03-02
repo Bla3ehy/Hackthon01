@@ -1,0 +1,9 @@
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\obj\Debug\生命靈數.Form1.resources
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\obj\Debug\生命靈數.Properties.Resources.resources
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\obj\Debug\生命靈數.csproj.GenerateResource.cache
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\bin\Debug\生命靈數.exe.config
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\bin\Debug\生命靈數.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\bin\Debug\生命靈數.pdb
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\obj\Debug\生命靈數.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\obj\Debug\生命靈數.pdb
+C:\Users\aa415\Source\Repos\Hackthon 01\生命靈數\obj\Debug\生命靈數.csprojAssemblyReference.cache

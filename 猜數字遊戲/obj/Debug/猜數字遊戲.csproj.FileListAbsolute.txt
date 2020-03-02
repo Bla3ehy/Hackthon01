@@ -1,0 +1,9 @@
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\bin\Debug\猜數字遊戲.exe.config
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\bin\Debug\猜數字遊戲.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\bin\Debug\猜數字遊戲.pdb
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\obj\Debug\猜數字遊戲.csprojAssemblyReference.cache
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\obj\Debug\猜數字遊戲.Form1.resources
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\obj\Debug\猜數字遊戲.Properties.Resources.resources
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\obj\Debug\猜數字遊戲.csproj.GenerateResource.cache
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\obj\Debug\猜數字遊戲.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\猜數字遊戲\obj\Debug\猜數字遊戲.pdb

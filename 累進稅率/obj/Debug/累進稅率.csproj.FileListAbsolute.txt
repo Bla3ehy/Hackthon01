@@ -1,0 +1,6 @@
+C:\Users\aa415\Source\Repos\Hackthon 01\累進稅率\obj\Debug\累進稅率.csprojAssemblyReference.cache
+C:\Users\aa415\Source\Repos\Hackthon 01\累進稅率\bin\Debug\累進稅率.exe.config
+C:\Users\aa415\Source\Repos\Hackthon 01\累進稅率\bin\Debug\累進稅率.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\累進稅率\bin\Debug\累進稅率.pdb
+C:\Users\aa415\Source\Repos\Hackthon 01\累進稅率\obj\Debug\累進稅率.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\累進稅率\obj\Debug\累進稅率.pdb
