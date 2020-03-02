@@ -1,0 +1,6 @@
+C:\Users\aa415\Source\Repos\Hackthon 01\質數問題\bin\Debug\質數問題.exe.config
+C:\Users\aa415\Source\Repos\Hackthon 01\質數問題\bin\Debug\質數問題.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\質數問題\bin\Debug\質數問題.pdb
+C:\Users\aa415\Source\Repos\Hackthon 01\質數問題\obj\Debug\質數問題.exe
+C:\Users\aa415\Source\Repos\Hackthon 01\質數問題\obj\Debug\質數問題.pdb
+C:\Users\aa415\Source\Repos\Hackthon 01\質數問題\obj\Debug\質數問題.csprojAssemblyReference.cache
